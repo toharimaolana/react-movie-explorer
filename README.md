@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # 🎬 React Movie Explorer
 
 A modern movie explorer built with **React**, **Axios**, and **Tailwind CSS**.  

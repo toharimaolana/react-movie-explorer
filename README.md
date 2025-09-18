@@ -27,7 +27,9 @@ This app consumes the **[The Movie Database (TMDb)](https://www.themoviedb.org/)
    ```bash
    git clone https://github.com/toharimaolana/react-movie-app
    cd react-movie-explorer
-=======
+   
+========
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
